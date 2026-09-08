@@ -11,6 +11,8 @@ store/
 data/
 logs/
 
+# Groups - per-installation state, not tracked
+groups/*
 
 # Per-group memory (CLAUDE.local.md) must never be committed.
 **/CLAUDE.local.md
