@@ -1,0 +1,13 @@
+{
+  "mcpServers": {},
+  "packages": {
+    "apt": [],
+    "npm": []
+  },
+  "additionalMounts": [],
+  "skills": "all",
+  "provider": "codex",
+  "groupName": "Sergeant Stone",
+  "assistantName": "Sergeant Stone",
+  "agentGroupId": "ag-9cbdde1f-ed08-4077-87dd-93b5574401f4"
+}
